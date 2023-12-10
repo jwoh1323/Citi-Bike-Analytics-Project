@@ -1,4 +1,4 @@
-# Citi-Bike-Analytics-Project
+# Citi Bike Analytics Project
 
 ### ABOUT THE PROJECT
 
