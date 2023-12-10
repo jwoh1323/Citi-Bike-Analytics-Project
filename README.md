@@ -6,6 +6,9 @@ The aim of this project is to conduct a comprehensive analysis of data gathered 
 
 Starting in 2013, the Citi Bike Program has established a robust infrastructure dedicated to the systematic collection of data related to program utilization. Thanks to the diligent efforts of the team involved, bike data is meticulously gathered each month, meticulously organized, and subsequently made accessible to the public on the dedicated Citi Bike Data webpage: https://www.citibikenyc.com/system-data
 
+### ETL process
+
+
 
 Please click [this link](https://jwoh1323.github.io/Mapping-Web-Project/) to see the Tableau dashboard
 
