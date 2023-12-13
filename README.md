@@ -1,6 +1,6 @@
 # Citi Bike Analytics Project
 
-## Proeject Description
+## Project Description
 
 The aim of this project is to conduct a comprehensive analysis of data gathered in 2018 from the New York City Bike Sharing program, known as Citi Bike, which stands as the largest bike sharing initiative in the United States.
 
