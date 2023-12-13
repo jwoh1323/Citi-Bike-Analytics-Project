@@ -18,7 +18,7 @@ To streamline the ETL process in this analysis, I implemented urllib for the aut
 
 Python, Tableau
 
-## Final Product
+## Project Outcome
 
 Tableau was utilized for the data visualization phase.
 Please click [this link](https://jwoh1323.github.io/Mapping-Web-Project/) to see the Tableau dashboard
