@@ -21,6 +21,6 @@ Python, Tableau
 ## Project Outcome
 
 Tableau was utilized for the data visualization phase.
-Please click [this link](https://jwoh1323.github.io/Mapping-Web-Project/) to see the Tableau dashboard
+Please click [this link](https://public.tableau.com/views/CtitBike2018Analysis/CitiBike2018?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) to see the Tableau dashboard
 
 ![alt text](https://github.com/jwoh1323/Citi-Bike-Analytics-Project/blob/a0229fedbdffc0f2705dd48ced4b321b208d3690/pro1.jpg) 
